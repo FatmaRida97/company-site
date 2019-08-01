@@ -1,0 +1,29 @@
+.nav-item{
+	
+	font-size:18px;
+	margin:15px;
+	padding-top:0px;
+	
+}
+
+.header2{
+	
+	margin-top:55px;
+	line-height:2;
+	
+}
+
+.p2{
+	
+	padding:10px;
+	padding-left:0px;
+	
+}
+
+.btn-primary{
+	
+	border-color:#40b6cf!important;
+	background-color:#40b6cf!important;
+	border-radius:50px;
+	
+}
